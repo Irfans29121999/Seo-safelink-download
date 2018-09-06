@@ -32,4 +32,11 @@ if(a_to_vk)
 {a_to_vk.innerHTML+=a_to_va;}}
 function a_to_fa()
 {var a_to_vf=new Array();protected_links=protected_links.replace(" ","");a_to_vf=protected_links.split(",");return a_to_vf;}
-if(x=="1"){xxx=""}
+if(x=="1"){xxx="penyakit-kanker-hati"}
+if(x=="2"){xxx="4-obat-alami-penyakit-kulit.html"}
+
+if(x=="3"){xxx="seosafelink-generator.html"}
+
+if(x=="4"){xxx="kasiat-dan-maanfaat-telur.html"}
+
+if(x=="5"){xxx="makan-makanan-sehat-dan-bergizi.html"}
